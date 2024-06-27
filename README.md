@@ -5,10 +5,9 @@
 - [Screenshots](#screenshots)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
-- [Live Demo](#live-demo)
+  
 
 - ## Screenshots
  
